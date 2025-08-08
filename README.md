@@ -1,4 +1,10 @@
-## Hi there 👋
+##
+I'm an electrical engineering student, I'm in my 5th semester,
+I really like robotics and things related to automation,
+I like the hardware part more than the software, I feel that it's my strong point. 
+I also consider very interesting the operation of motors and the electrical network,
+I would like to acquire more knowledge about these topics.
+
 
 <!--
 **lauramrodriguez07/lauramrodriguez07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
