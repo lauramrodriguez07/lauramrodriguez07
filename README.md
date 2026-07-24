@@ -1,5 +1,5 @@
 ##
-I'm an electrical engineering student, I'm in my 5th semester,
+I'm an electrical engineering student, I'm in my 7th semester,
 I really like robotics and things related to automation,
 I like the hardware part more than the software, I feel that it's my strong point. 
 I also consider very interesting the operation of motors and the electrical network,
